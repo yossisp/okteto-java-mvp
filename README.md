@@ -10,4 +10,3 @@ This is the application used for the [How to Develop and Debug Java Applications
 - `okteto up`
 - `cd /usr/src/app`
 - `mvn spring-boot:run`
-- 
